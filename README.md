@@ -1,4 +1,5 @@
 # devops-aula01
-Vinicius 
+Gabriel 
 Camilla
 Ana Luiza
+Vinicius
